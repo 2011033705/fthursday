@@ -1,0 +1,9 @@
+
+#
+# Project configuration file for
+# Fthursday
+#
+
+projectname: Fthursday
+vendorid: com.ueldelrosario
+mainmodule: com.ueldelrosario.fthursday
